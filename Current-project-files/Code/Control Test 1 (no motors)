@@ -1,0 +1,15 @@
+const int X_PIN  = D0;
+const int Y_PIN  = D1;
+const int SW_PIN = D6;
+
+void setup() {
+  Serial.begin(115200);
+  pinMode(SW_PIN, INPUT_PULLUP);
+}
+
+void loop() {
+  Serial.printf("x=%d y=%d sw=%s\n",
+    analogRead(X_PIN), analogRead(Y_PIN),
+    digitalRead(SW_PIN) == LOW ? "pressed" : "released");
+  delay(100);
+}
