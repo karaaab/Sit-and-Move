@@ -1,0 +1,153 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="C9FBRFlfnb23BOfZVpMM">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7lI-__peIdQpt76Lj65N-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="110" x="430" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-46" edge="1" parent="1" source="7lI-__peIdQpt76Lj65N-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="7lI-__peIdQpt76Lj65N-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="190" width="190" x="720" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="230" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="200" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="170" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="140" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="450" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="510" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="480" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="N-Mos Transistor" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ESP32-C3 MC" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="730" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="730" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DC Motor" vertex="1">
+          <mxGeometry height="30" width="60" x="785" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-19" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="480" as="sourcePoint" />
+            <mxPoint x="680" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="G" vertex="1">
+          <mxGeometry height="30" width="60" x="425" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="D" vertex="1">
+          <mxGeometry height="30" width="60" x="455" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="S" vertex="1">
+          <mxGeometry height="30" width="60" x="485" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-25" edge="1" parent="1" source="7lI-__peIdQpt76Lj65N-43" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="7lI-__peIdQpt76Lj65N-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="480" as="sourcePoint" />
+            <mxPoint x="570" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="GND" vertex="1">
+          <mxGeometry height="30" width="60" x="115" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-31" edge="1" parent="1" source="7lI-__peIdQpt76Lj65N-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="7lI-__peIdQpt76Lj65N-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="GPIO 4" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.809;entryY=1.176;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="145.5" y="481" as="sourcePoint" />
+            <mxPoint x="144.5" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="+" vertex="1">
+          <mxGeometry height="30" width="60" x="730" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="-" vertex="1">
+          <mxGeometry height="30" width="60" x="730" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="12 V Source" vertex="1">
+          <mxGeometry height="60" width="120" x="425" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="520" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="440" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oqkzbw3RQCt0h5xNG-eC-1" edge="1" parent="1" source="7lI-__peIdQpt76Lj65N-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="-" vertex="1">
+          <mxGeometry height="30" width="60" x="430" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-39" edge="1" parent="1" source="7lI-__peIdQpt76Lj65N-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.293;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;entryPerimeter=0;" target="7lI-__peIdQpt76Lj65N-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="+" vertex="1">
+          <mxGeometry height="30" width="60" x="480" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-41" edge="1" parent="1" source="7lI-__peIdQpt76Lj65N-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="7lI-__peIdQpt76Lj65N-40" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="315" as="sourcePoint" />
+            <mxPoint x="458" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-40" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="20" width="100" x="285" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="100-200 Ohm" vertex="1">
+          <mxGeometry height="30" width="60" x="300" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-44" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="7lI-__peIdQpt76Lj65N-43" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="480" as="sourcePoint" />
+            <mxPoint x="519" y="339" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-43" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;labelPerimeter=1;direction=south;" value="" vertex="1">
+          <mxGeometry height="75" width="20" x="510" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pull-down Resistor&lt;div&gt;10k?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7lI-__peIdQpt76Lj65N-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Note: gate resistor to limit current spikes upon motor activation" vertex="1">
+          <mxGeometry height="30" width="135" x="262.5" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="oqkzbw3RQCt0h5xNG-eC-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="GND" vertex="1">
+          <mxGeometry height="30" width="60" x="680" y="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
